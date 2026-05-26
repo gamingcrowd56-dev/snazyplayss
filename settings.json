@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.hillcrft.fun",
+    "ip": "play.hillcraft.fun",
     "port": 29195,
     "version": "1.21.1"
   },
